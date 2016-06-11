@@ -1,0 +1,18 @@
+# (uncomment to add a dependency)
+dependencies:
+- name: jquery-flot
+  version: 1.1
+  src: htmlwidgets
+  script: ./lib/jquery.flot.js
+- name: jquery-flot-resize
+  version: 1.1
+  src: htmlwidgets
+  script: ./lib/jquery.flot.resize.js
+- name: jquery-flot-time
+  version: 1.1
+  src: htmlwidgets
+  script: ./lib/jquery.flot.time.js
+- name: custom-date-plugin
+  version: 1.0.1
+  src: htmlwidgets
+  script: ./lib/date.js

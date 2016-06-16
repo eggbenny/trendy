@@ -99,7 +99,7 @@ HTMLWidgets.widget({
           }
         };
         var plot = $.plot(el, [{
-          label: "Custom label",
+          label: "Unique Pageviews",
           data: d1,
           lines: {
             fillColor: "rgba(150, 202, 89, 0.12)"
